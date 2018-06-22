@@ -1,0 +1,62 @@
+html {
+    font-family: 'Spirax', cursive;
+}
+
+/*body {
+    background-color: red;
+    font-size: 25px;
+}*/
+
+p {
+    color: white;
+}
+
+#paragrafo-id {
+    font-size: 50px;
+}
+
+ul li#primero {
+    color: white;
+}
+
+div p span {
+    color: blueviolet;
+}
+
+.pepito {
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.perez {
+    border: 1px solid white;
+}
+
+[data~="prueba2"] {
+    background-color: blue
+}
+
+[data~="prueba"] {
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+ul li:nth-last-child(3) {
+    font-size: 50px;
+}
+
+p em:first-child {
+    color: yellowgreen;
+  }
+
+div[data], ul#lista {
+    background-color: rgb(255, 0, 212)
+}
+div#contenedor > samp {
+    color: black ; 
+    background-color: red
+}
+

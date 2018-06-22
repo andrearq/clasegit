@@ -1,0 +1,16 @@
+#contenedor-pp { 
+    /*background-color: black;*/
+    border: 10px solid black;
+    height: 200px;
+    padding-left:  50px;
+    padding-right: 50px;
+    margin-left:   10px;
+    margin-right:  10px;
+    width: 300px;
+}
+
+#cabecera { height: 60px; }
+
+#contenido { height: 60px; }
+
+#pie { height: 60px; }
